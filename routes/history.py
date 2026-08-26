@@ -1,26 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-3 of 1,488
-update your code
-Inbox
-
-John <michenijohn20@gmail.com>
-Attachments
-9:31 AM (2 hours ago)
-to me
-
-ongeza hizi  routes/history.py, models.py. Ongeza hizi files kwa branch yako ya backend
-
- 2 Attachments
-  •  Scanned by Gmail
-
-Manasseh Mugo
-11:59 AM (14 minutes ago)
-to John
-
-fiti
 from flask import Blueprint, jsonify
 from flask_jwt_extended import jwt_required, get_jwt_identity
 
